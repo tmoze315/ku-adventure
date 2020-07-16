@@ -4,7 +4,7 @@ This is a text-based multiplayer RPG style game. Battle monsters, level up, loot
 
 This guide aims to give you everything you need to start your adventure and kick some ass.
 
-## Channels <a id="channels"></a>
+## Rules & Channels <a id="channels"></a>
 
 There are 3 channels that you need to be aware of:
 
@@ -12,9 +12,42 @@ There are 3 channels that you need to be aware of:
 * `#adv-chat` - Chat with your fellow adventurers. Say hi, ask questions, recruit help for battles etc. Avoid using bot commands in this channel
 * `#adv-town` - A channel for bot spam. Use this channel \(along with `#adv-town-2` for all of your adventure related commands\)
 
+_There isn't really a specified SFW or NSFW rule for these channels. Mild nsfw stuff can happen, much like how you can make out in a bar but you'll get kicked out if you try to fuck on the tables._
+
 If you want to see a list of all available commands, type -help in `#adv-town`:
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC8Dpt7qJI4Xa7WXnW%2Fimage.png?alt=media&token=0057186f-44a9-44d7-bc71-e84977068808)
+
+### Notifying other players
+
+{% hint style="info" %}
+**When notifying other players, please be respectful.**
+{% endhint %}
+
+#### Individual notifications
+
+You are allowed to mention individual players for help during a battle, **however you can only do this with their prior consent.**
+
+#### Notify everyone with the "Adventure Time!" \(self-assigned\) role
+
+Some monsters drop additional loot but are often tougher. You'll need to call upon other players to join the battle. To do this, you can ping \(i.e. send a notification\) to everybody who wants to be notified of these battles.
+
+Please **ONLY** do this for the following:
+
+* Bosses\(e.g. a Dragon\). These are monsters with large images and orange text. They can be easily identified by the fact that they raise an alarm
+* Anything "Transcended", for example: "_an enlightened_ **Transcended** Troll Berserker**"**
+
+To ping these players,  mention the bot `@Adventure Time!` in the `#adventure` channel.  You can also add a message to provide a bit more context. For example:
+
+`@Adventure Time! Dragon!`
+
+{% hint style="info" %}
+**Only the player who summoned the monster \(a.k.a started the `-adventure` is allowed to use this bot.**
+
+This rule helps ensure that only 1 notification is sent out.
+{% endhint %}
+
+![Example boss fight with Adventure Time notification](.gitbook/assets/image%20%281%29.png)
 
 ### What an adventure looks like <a id="what-an-adventure-looks-like"></a>
 
