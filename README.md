@@ -64,15 +64,11 @@ While you are a low level, you're better of selling any legendary items as they 
 
 Before equipping items, lets have a look at your character's current stats with the `-stats` command:
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC4zIH7hYKCFmgH6Mn%2Fimage.png?alt=media&token=eeddea52-dc53-4c26-bd45-116e0e1e2298)
-
-Stats - Page 1 - Character
+![Stats - Page 1 - Character](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC4zIH7hYKCFmgH6Mn%2Fimage.png?alt=media&token=eeddea52-dc53-4c26-bd45-116e0e1e2298)
 
 This will show you everything you need to know about your character. To see what items you currently have equipped \(if any\), press the ➡️ button to go to Page 2:
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC5bj6QWCy8qW6aZzC%2Fimage.png?alt=media&token=e924290c-a374-48e1-80a5-199aaf9fd967)
-
-Stats - Page 2 - Equipment
+![Stats - Page 2 - Equipment](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC5bj6QWCy8qW6aZzC%2Fimage.png?alt=media&token=e924290c-a374-48e1-80a5-199aaf9fd967)
 
 Here, you can see 10 equipment slots and the items that are currently equipped there. The different colours show what the rarity is.
 
@@ -85,8 +81,6 @@ Here, you can see 10 equipment slots and the items that are currently equipped t
 Next, lets see what items we have available in our backpack: `-backpack`.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC7B4aufoJifV-OuBC%2Fimage.png?alt=media&token=fd08cec9-864f-446c-ad6d-a7d07b33bd0a)
-
-TODO GET A BETTER IMAGE
 
 To equip an item, use this command: `-equip`. For example:
 
