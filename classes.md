@@ -10,7 +10,7 @@ Intelligence and diplomacy directly affects this class's cooldown and **persuasi
 
 **Ranger**
 
-Over 900 new pets added for the Ranger class**.** Pet now can give varied bonuses such as **increased currency drop and increased XP**.
+Over 900 new pets added for the Ranger class. Pet now can give varied bonuses such as **increased currency drop and increased XP**.
 
 **Berserker**
 
