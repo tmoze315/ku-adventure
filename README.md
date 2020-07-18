@@ -37,7 +37,7 @@ Please **ONLY** do this for the following:
 * Bosses \(e.g. a Dragon\). These are monsters with large images and orange text. They can be easily identified by the fact that they raise an alarm and have an extended 5 minute timer
 * Anything "Transcended", for example: "_an enlightened_ **Transcended** Troll Berserker**"**
 
-To ping these players,  mention the bot `@Adventure Time!` in the `#adventure` channel.  You can also add a message to provide a bit more context. For example:
+To ping these players,  mention the `@Adventure Time!` role in the `#adventure` channel.  You can also add a message to provide a bit more context. For example:
 
 `@Adventure Time! Dragon!`
 
