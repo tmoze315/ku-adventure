@@ -3,6 +3,6 @@
 * [Getting Started](README.md)
 * [Monsters](monsters.md)
 * [Classes](classes.md)
-* [Drachma](drachma.md)
-* [Negaverse \(Risk Drachma for XP\)](negaverse-risk-drachma-for-xp.md)
+* [Gold](drachma.md)
+* [Negaverse \(Risk gold for XP\)](negaverse-risk-drachma-for-xp.md)
 

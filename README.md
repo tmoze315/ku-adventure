@@ -1,6 +1,6 @@
 # Getting Started
 
-This is a text-based multiplayer RPG style game. Battle monsters, level up, loot and earn in-game money \(Drachma\). Join forces with others in Discord and beat those harder monsters.
+This is a text-based multiplayer RPG style game. Battle monsters, level up, loot and earn in-game money \(gold\). Join forces with others in Discord and beat those harder monsters.
 
 This guide aims to give you everything you need to start your adventure and kick some ass.
 
@@ -37,7 +37,7 @@ Please **ONLY** do this for the following:
 * Bosses \(e.g. a Dragon\). These are monsters with large images and orange text. They can be easily identified by the fact that they raise an alarm and have an extended 5 minute timer
 * Anything "Transcended", for example: "_an enlightened_ **Transcended** Troll Berserker**"**
 
-To ping these players,  mention the `@Adventure Time!` role in the `#adventure` channel.  You can also add a message to provide a bit more context. For example:
+To ping these players, mention the `@Adventure Time!` role in the `#adventure` channel. You can also add a message to provide a bit more context. For example:
 
 `@Adventure Time! Dragon!`
 
@@ -63,9 +63,9 @@ When you're getting started, **Fight** everything unless it is an "**Immortal".*
 
 Once the timer runs out, the battle ends and the results will be posted automatically.
 
-If you **Win**, you gain XP and in-game money \(Drachma\). Some monsters also drop loot boxes.
+If you **Win**, you gain XP and in-game money \(gold\). Some monsters also drop loot boxes.
 
-If you **Lose**, it costs you Drachma.
+If you **Lose**, it costs you gold.
 
 **For the best chance of success, you want as many people as possible to join the battle by reacting.**
 
@@ -130,7 +130,7 @@ To rebirth, head to the `#adv-town` channel and type `-rebirth`. This will:
 * Reset your level back to level 1
 * Increase your maximum level \(to 25 in this case\)
 * Empty your backpack of any items you have looted \(except for legendary items and sets - see the Backpack guide for more details\)
-* Cost 100% of your Drachma
+* Cost 100% of your gold
 * Cost all of your current gear
   * Legendary items last 3 rebirths
   * Set items never disappear
@@ -139,9 +139,9 @@ In turn, rebirthing will give you a higher stat base, a better chance for acquir
 
 **You will want to rebirth whenever you reach your maximum level.**
 
-If you have a lot of Drachma, send it to another player to hold for you while you rebirth. They can transfer it back to you afterwards and it avoids you losing all of your Drachma.
+If you have a lot of gold, send it to another player to hold for you while you rebirth. They can transfer it back to you afterwards and it avoids you losing all of your gold.
 
-To do this, head to `#adv-town` and type `-bank balance` to see how much Drachma you have. Then to transfer it, use: ``-bank transfer @username 1000`.``
+To do this, head to `#adv-town` and type `-bank balance` to see how much gold you have. Then to transfer it, use: ``-bank transfer @username 1000`.``
 
 It is also worth selling all of your equipment too, as your backpack gets emptied. Typically it is best to sell everything **other than your sets**. You can sell equipment like so:
 
