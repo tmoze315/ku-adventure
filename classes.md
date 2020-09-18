@@ -2,25 +2,30 @@
 
 **Wizard**
 
-Intelligence and Luck affects this class's cooldown and damage **spells**.
+Intelligence and Luck affects this class's cooldown and damage **spells**.   
+**\[**Use command `-focus` to boost spell attempt**\]**
 
 **Bard**
 
-Intelligence and diplomacy directly affects this class's cooldown and **persuasion** **\(talk\)** attempts.
+Intelligence and diplomacy directly affects this class's cooldown and **persuasion** **\(talk\)** attempts.   
+**\[**Use command `-music` to boost talk attempt**\]**
 
 **Ranger**
 
-Over 900 new pets added for the Ranger class. Pet now can give varied bonuses such as **increased currency drop and increased XP**.
+Over 900 new pets added for the Ranger class. Pet now can give varied bonuses such as **increased currency drop and increased XP**.   
+**\[**Use command `-pet` to attempt to tame a random animal**\]**
 
 **Berserker**
 
-Attack, Luck and Dexterity directly affect this characters **damage \(fight\)** abilities.
+Attack, Luck and Dexterity directly affect this characters **damage \(fight\)** abilities. **\[**Use command `-rage` to boost attack attempt**\]**
 
 **Cleric**
 
-Intelligence and Luck affects this class's cooldown and **prayers**.
+Intelligence and Luck affects this class's cooldown and **prayers**.   
+**\[**Use command `-bless` to boost prayer attempt**\]**
 
 **Tinkerer**
 
-Intelligence and Luck affects this class's cooldown and forged items.
+Intelligence and Luck affects this class's cooldown and forged items.  
+**\[**Use command `-forge` to do.. mm sumfin**\]**
 

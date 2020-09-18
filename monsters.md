@@ -8,5 +8,7 @@ Find more about the monsters you battle and learn the best strategy for defeatin
 * Ascended/Transcended
 * Adventure time notifications
 
-​
+
+
+
 
