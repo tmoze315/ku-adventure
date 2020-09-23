@@ -16,7 +16,9 @@ _There isn't really a specified SFW or NSFW rule for these channels. Mild nsfw s
 
 If you want to see a list of all available commands, type -help in `#adv-town`:
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC8Dpt7qJI4Xa7WXnW%2Fimage.png?alt=media&token=0057186f-44a9-44d7-bc71-e84977068808)
+![](.gitbook/assets/screenshot-2020-09-23-at-16.27.09.png)
+
+![](.gitbook/assets/screenshot-2020-09-23-at-16.27.40.png)
 
 ### Notifying other players
 
@@ -51,13 +53,13 @@ This rule helps ensure that only 1 notification is sent out.
 
 ### What an adventure looks like <a id="what-an-adventure-looks-like"></a>
 
-To start an adventure, you or somebody else must enter the `-adventure` command in the `#adventure` channel. This will start a battle and will look something like this:
+To start an adventure, you or somebody else must enter the `-adventure` \(or `-a` for short\) command in the `#adventure` channel. This will start a battle and will look something like this:
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCBujcEBzmlHOROogL4%2Fimage.png?alt=media&token=bd3a47cc-0d68-4086-9ae7-10ba3261d443)
+![](.gitbook/assets/screenshot-2020-09-23-at-16.30.38.png)
 
-You must then use "Reactions" to decide on how to proceed. Tap the icon to select your action. Here, we chose to **Fight**.
+You must then use "Reactions" to decide on how to proceed. Tap the icon to select your action. Here, we chose to **Fight \(**Both the sword and starts/spell count as attacks\).
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCBvZ6rg0gVG8nIn7CD%2Fimage.png?alt=media&token=4ace2313-a6a8-4069-a445-f490b045e244)
+![](.gitbook/assets/screenshot-2020-09-23-at-16.31.11.png)
 
 When you're getting started, **Fight** everything unless it is an "**Immortal".** You want to **Talk** to immortals.
 
@@ -85,7 +87,7 @@ Each chest, when opened, will give you items of that rarity.
 
 To see what loot chests you have, head to `#adv-town` and type `-loot`.
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC3dYUi4PUdC8jMfNA%2Fimage.png?alt=media&token=76f69905-9360-4c41-a7ca-d91bca8078a5)
+![](.gitbook/assets/screenshot-2020-09-23-at-16.29.54.png)
 
 To open a normal loot chest, type `-loot normal`. The new equipment will be added to your backpack.
 
@@ -97,11 +99,11 @@ While you are a low level, you're better of selling any legendary items as they 
 
 Before equipping items, lets have a look at your character's current stats with the `-stats` command:
 
-![Stats - Page 1 - Character](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC4zIH7hYKCFmgH6Mn%2Fimage.png?alt=media&token=eeddea52-dc53-4c26-bd45-116e0e1e2298)
+![Stats - Page 1](.gitbook/assets/screenshot-2020-09-23-at-16.33.01.png)
 
 This will show you everything you need to know about your character. To see what items you currently have equipped \(if any\), press the ➡️ button to go to Page 2:
 
-![Stats - Page 2 - Equipment](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC5bj6QWCy8qW6aZzC%2Fimage.png?alt=media&token=e924290c-a374-48e1-80a5-199aaf9fd967)
+![](.gitbook/assets/screenshot-2020-09-23-at-16.33.27.png)
 
 Here, you can see 10 equipment slots and the items that are currently equipped there. The different colours show what the rarity is.
 
@@ -113,13 +115,13 @@ Here, you can see 10 equipment slots and the items that are currently equipped t
 
 Next, lets see what items we have available in our backpack: `-backpack`.
 
-![](https://gblobscdn.gitbook.com/assets%2F-MCBpqOR8QcLso6Xbofp%2F-MCBqM2QzHmHRjEu8hZv%2F-MCC7B4aufoJifV-OuBC%2Fimage.png?alt=media&token=fd08cec9-864f-446c-ad6d-a7d07b33bd0a)
+![](.gitbook/assets/screenshot-2020-09-23-at-16.34.26.png)
 
 To equip an item, use this command: `-equip`. For example:
 
-`-equip invisible adamantite stompers` This command does a fuzzy match to save you typing, so you can also type this for the same outcome:
+`-equip Savage runite jaws` This command does a fuzzy match to save you typing, so you can also type this for the same outcome:
 
-`-equip stompers`
+`-equip runite jaws`
 
 ### Rebirthing once you reach max level <a id="rebirthing-once-you-reach-max-level"></a>
 
