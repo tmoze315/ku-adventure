@@ -10,7 +10,7 @@ There are 3 channels that you need to be aware of:
 
 * `#adventure` - This is where the action happens. Keep this channel focused to battling
 * `#adv-chat` - Chat with your fellow adventurers. Say hi, ask questions, recruit help for battles etc. Avoid using bot commands in this channel
-* `#adv-town` - A channel for bot spam. Use this channel \(along with `#adv-town-2` for all of your adventure related commands\)
+* `#adv-town` - A channel for bot spam. Use this channel \(along with `#adv-town-2` and `#adv-town-3` \) for all of your adventure related commands.
 
 _There isn't really a specified SFW or NSFW rule for these channels. Mild nsfw stuff can happen, much like how you can make out in a bar but you'll get kicked out if you try to fuck on the tables._
 
@@ -75,12 +75,13 @@ If you **Lose**, it costs you gold.
 
 ### Looting <a id="looting"></a>
 
-To make yourself stronger, you can equip items. These are found in loot chests. There are 5 different chest rarities:
+To make yourself stronger, you can equip items. These are found in loot chests. There are 6 different chest rarities:
 
 * Normal
 * Rare
 * Epic
 * Legendary
+* Ascended
 * Set
 
 Each chest, when opened, will give you items of that rarity.
@@ -113,7 +114,7 @@ Here, you can see 10 equipment slots and the items that are currently equipped t
 * Legendary: **Teal**
 * Set: **White**
 
-Next, lets see what items we have available in our backpack: `-backpack`.
+Next, lets see what items we have available in our backpack: `-backpack`. Your backpack can only hold so many items and grows as you gain levels/rebirths. Max  you will ever be able to hold at one time is 125.
 
 ![](.gitbook/assets/screenshot-2020-09-23-at-16.34.26.png)
 
@@ -164,6 +165,7 @@ Once you have reached level 10, you get to pick a class for your character. Each
 * Cleric
 * Ranger
 * Bard
+* Psychic \(Rebirth 26 or Higher\)
 
 For more in-depth information on each of these, head over to the **Classes** page:
 
@@ -174,4 +176,10 @@ To select a class, head to `#adv-town` and use the command:
 So, if you wanted to be a Berserker you can type:
 
 `-heroclass berserker`
+
+##   **Leaderboard / Scoreboard Commands**
+
+* `-aleaderboard` Who is the strongest / sweetiest person in your server/globally?
+* `-scoreboard` Ever wondered who in your server fumbles/globally the most?
+* `-wscoreboard` who will be the person to lose the most adventures this week?
 
