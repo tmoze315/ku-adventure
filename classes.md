@@ -33,5 +33,5 @@ Intelligence and Luck affects this class's cooldown and forged items.
 **Psychic \[Rebirth 26 and Higher\]**
 
 Unknown  
-**\[**Unknown currently.**\]**
+**\[**Use Command `-insight` to determine enemy weaknesses and information.**\]**
 
