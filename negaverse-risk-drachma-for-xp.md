@@ -19,5 +19,3 @@ Negaverse allows you to spend your hard-earned gold to boost your xp, quickly gi
 
 ![https://codepen.io/tmoze315/full/xxZyPqx](.gitbook/assets/image%20%282%29.png)
 
-Use command `-nsvb`  to check the Negaverse Leaderboards and see how many wins/losses you have!
-

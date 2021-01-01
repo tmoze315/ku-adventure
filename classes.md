@@ -1,4 +1,6 @@
-# Classes
+# Your Hero
+
+## Hero Classes
 
 **Wizard**
 
@@ -53,4 +55,28 @@ This is a great class for newer players as it lets you benefit from high level L
 
 Intelligence and Luck affects forged items.  
 **\[**Use command `-forge` to combine two items into one unique item that binds to you and cannot be traded.**\]**
+
+## **Attack Cooldowns**
+
+The shortest cooldown you can have on your abilities is 5 minutes. Your cooldown is reduced the higher your skill and luck is. The skill used depends on the class. See below for the skills.
+
+Below, `total_` \(e.g. `total_attack`\) includes your equipment `attack` + `your base attack.` `"Attack: 100 [+45]"` would be a total of `145`
+
+You need your skill and luck to total 450 in order to get the 5-minute cooldown.
+
+### Berzerker \(rage\)
+
+1200 - \(\(luck + total **attack**\) \* 2\)
+
+### Wizard \(focus\)
+
+1200 - \(\(luck + total **intelligence**\) \* 2\)
+
+### Bard \(music\)
+
+1200 - \(\(luck + total **charisma**\) \* 2\)
+
+### Cleric \(bless\)
+
+1200 - \(\(luck + total **intelligence**\) \* 2\)
 

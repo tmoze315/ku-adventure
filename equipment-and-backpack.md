@@ -6,7 +6,7 @@ description: 'You''ve got a lot of stuff, now what do you do with it?'
 
 After you `-loot` your treasure, you can either wear it or put it in your backpack. To view items, you can use the basic command `-backpack` or you can change up the game and really put some effort into your gear! Use any of the following commands to interact with your backpack and items:
 
-* `-backpack eset` - Equip all pieces of a set that you are able to equip.
+* `-backpack`
 * `-ebackpack` accepts all the same arguments as `-backpack` but will only show items you can equip.
 *  `-mysets` - Show all available sets and how many pieces you own.
 *  `-cbackpack`
