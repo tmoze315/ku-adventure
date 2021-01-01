@@ -64,19 +64,25 @@ Below, `total_` \(e.g. `total_attack`\) includes your equipment `attack` + `your
 
 You need your skill and luck to total 450 in order to get the 5-minute cooldown.
 
+{% hint style="info" %}
+To convert your cooldown from seconds to minutes, divide seconds by 60:
+
+_Cooldown in seconds ➗ 60 = Cooldown in minutes_
+{% endhint %}
+
 ### Berzerker \(rage\)
 
-1200 - \(\(luck + total **attack**\) \* 2\)
+1200 - \(\(luck + total **attack**\) \* 2\) = cooldown in seconds
 
 ### Wizard \(focus\)
 
-1200 - \(\(luck + total **intelligence**\) \* 2\)
+1200 - \(\(luck + total **intelligence**\) \* 2\) = cooldown in seconds
 
 ### Bard \(music\)
 
-1200 - \(\(luck + total **charisma**\) \* 2\)
+1200 - \(\(luck + total **charisma**\) \* 2\) = cooldown in seconds
 
 ### Cleric \(bless\)
 
-1200 - \(\(luck + total **intelligence**\) \* 2\)
+1200 - \(\(luck + total **intelligence**\) \* 2\) = cooldown in seconds
 
